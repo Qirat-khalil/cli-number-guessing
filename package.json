@@ -1,0 +1,20 @@
+{
+  "name": "qirat357_cli-number-guessing",
+  "version": "1.0.0",
+  "description": "\"CLI Number Guessing\" is a text-based game where players attempt to guess a randomly generated number within a specified range.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Qirat",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
